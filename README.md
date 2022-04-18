@@ -6,13 +6,17 @@ In this project, I have access to approximately 50 datasets. Each one contains r
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-- How many Vine reviews and non-Vine reviews were there?
-As seen in the image below there were 334 Vine reviews and 61,614 non-Vine reviews.
+1. How many Vine reviews and non-Vine reviews were there?
+- As seen in the image below there were 334 Vine reviews and 61,614 non-Vine reviews.
 
 <img width="450" alt="Total_Reviews_Image" src="https://user-images.githubusercontent.com/60076980/163737718-28e7e41a-64ad-489c-9961-b8a190202060.png">
 
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+<img width="646" alt="5StarReviews_Image" src="https://user-images.githubusercontent.com/60076980/163737888-6fbd7b5c-d7cb-4262-b3b0-1b26dbc0f256.png">
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+<img width="620" alt="Percentage_5_Star_Reviews" src="https://user-images.githubusercontent.com/60076980/163737980-4e7e6b96-92f3-4da7-81bd-a8543df6f6c2.png">
+
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
